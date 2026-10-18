@@ -1,5 +1,5 @@
 ---
-title: DocFit Privacy Policy
+title: Muna Privacy Policy
 lang: en
 ---
 
@@ -7,7 +7,7 @@ lang: en
 
 Effective October 18, 2026.
 
-DocFit is a document scanning app for iPhone. This page explains what data the app uses and where it goes.
+Muna is a document scanning app for iPhone. This page explains what data the app uses and where it goes.
 
 ## Your documents stay on your device
 

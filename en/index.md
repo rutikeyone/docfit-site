@@ -1,9 +1,9 @@
 ---
-title: DocFit
+title: Muna
 lang: en
 ---
 
-# DocFit
+# Muna
 
 A document scanner for iPhone: scan pages with the camera, build PDFs, recognize text and shrink files. Everything runs on the device, no account needed.
 
