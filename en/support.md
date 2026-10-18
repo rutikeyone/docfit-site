@@ -7,7 +7,7 @@ lang: en
 
 ## Report a problem
 
-Describe what happened in the form: [GOOGLE FORM LINK]. A screenshot or screen recording helps a lot.
+Describe what happened in the [feedback form](https://forms.gle/ywX21yvVQX1UUnWJ7). No Google account needed. If you leave an email, we'll reply to it.
 
 You can also open the form from the app: Settings → Report a Problem.
 

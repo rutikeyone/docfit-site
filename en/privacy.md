@@ -50,6 +50,8 @@ If this policy changes, the new version will appear on this page with a new date
 
 ## Contact
 
-Privacy questions: use the form on the [Support](support.html) page.
+Privacy questions: use the [feedback form](https://forms.gle/ywX21yvVQX1UUnWJ7) (also linked on the [Support](support.html) page).
+
+The form runs on Google Forms. You write the problem description yourself and, if you like, the app version, phone model and email. We use this only to look into the problem and reply to you; responses are stored in Google Forms and deleted on request through the same form.
 
 [Русская версия](../privacy.html)
