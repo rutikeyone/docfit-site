@@ -1,0 +1,37 @@
+---
+title: DocFit Support
+lang: en
+---
+
+# Support
+
+## Report a problem
+
+Describe what happened in the form: [GOOGLE FORM LINK]. A screenshot or screen recording helps a lot.
+
+You can also open the form from the app: Settings → Report a Problem.
+
+## FAQ
+
+**Where are my documents stored?**
+Only on your iPhone, inside the app. We never receive them.
+
+**Do I need the internet?**
+No. Scanning, text recognition and PDF tools work offline. The internet is only used for ads and the feedback form.
+
+**How do I send a document?**
+Open the document and tap Share: send it as PDF or JPG, add a password to the PDF, or save pages to Photos.
+
+**The file is too big for email or a portal. What can I do?**
+The Compress tool on the home screen offers ready-made size options.
+
+**How do I retake a page?**
+Tap the page and choose Retake, or open the page editor.
+
+**How do I delete a document?**
+Swipe it left in History or Recent.
+
+**My documents are gone after deleting the app.**
+Documents are stored only inside the app and are removed with it. Save the ones you need with Share before deleting the app.
+
+[Privacy Policy](privacy.html) · [Русский](../support.html)
