@@ -14,10 +14,10 @@ You can also open the form from the app: Settings → Report a Problem.
 ## FAQ
 
 **Where are my documents stored?**
-Only on your iPhone, inside the app. We never receive them.
+On your iPhone, inside the app, and in your iPhone backup if it is on. We never receive them.
 
 **Do I need the internet?**
-No. Scanning, text recognition and PDF tools work offline. The internet is only used for ads and the feedback form.
+No. Scanning, text recognition and PDF tools work offline. The internet is only used for the feedback form.
 
 **How do I send a document?**
 Open the document and tap Share: send it as PDF or JPG, add a password to the PDF, or save pages to Photos.
@@ -32,6 +32,6 @@ Tap the page and choose Retake, or open the page editor.
 Swipe it left in History or Recent.
 
 **My documents are gone after deleting the app.**
-Documents are stored only inside the app and are removed with it. Save the ones you need with Share before deleting the app.
+Documents are stored inside the app and are removed with it. Save the ones you need with Share before deleting the app.
 
 [Privacy Policy](privacy.html) · [Русский](../support.html)
