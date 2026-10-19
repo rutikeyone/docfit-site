@@ -5,13 +5,13 @@ lang: en
 
 # Privacy Policy
 
-Effective October 18, 2026.
+Effective October 20, 2026.
 
 Muna is a document scanning app for iPhone. This page explains what data the app uses and where it goes.
 
 ## Your documents stay on your device
 
-- Scans, imported photos and PDFs are stored only on your iPhone, inside the app.
+- Scans, imported photos and PDFs are stored on your iPhone, inside the app. If iPhone backup is on (iCloud or a computer), they are included in it.
 - Text recognition, cropping, filters, compression, merging and splitting run on the device. Documents are never sent to us or to third parties.
 - No account is required. We don't know who you are and we never receive your documents.
 - A file leaves the app only when you send it with Share, save it to Files or to Photos.
@@ -24,16 +24,10 @@ Muna is a document scanning app for iPhone. This page explains what data the app
 
 You can revoke permissions in the iPhone Settings app.
 
-## Advertising
-
-The app shows ads from Google AdMob. To do this, Google may receive technical data: device type, OS version, approximate location based on IP address, the advertising identifier (if you allowed tracking) and ad interaction data. Your documents are never shared for advertising.
-
-On first launch the app asks for your consent to personalized ads. You can change your choice in the app: Settings → Ad Settings. How Google uses data: [policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).
-
 ## What we don't do
 
 - We don't collect analytics or usage statistics.
-- We don't sell or share data, except as described under Advertising.
+- We don't sell or share data.
 - We don't store your documents on any server.
 
 ## Children
