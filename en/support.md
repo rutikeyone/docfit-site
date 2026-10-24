@@ -19,9 +19,6 @@ On your iPhone, inside the app, and in your iPhone backup if it is on. We never 
 **Do I need the internet?**
 No. Scanning, text recognition and PDF tools work offline. The internet is only used for the feedback form.
 
-**Are there ads in the app?**
-No. Muna has no ads.
-
 **How do I send a document?**
 Open the document and tap Share: send it as PDF or JPG, add a password to the PDF, or save pages to Photos.
 
