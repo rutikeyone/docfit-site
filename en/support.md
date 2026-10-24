@@ -7,7 +7,7 @@ lang: en
 
 ## Report a problem
 
-Describe what happened in the [feedback form](https://forms.gle/ywX21yvVQX1UUnWJ7). No Google account needed. If you leave an email, we'll reply to it.
+Describe what happened in the [feedback form](https://forms.gle/6XDzKQrPNpKnLuCk8). You can write in any language. No Google account needed. If you leave an email, we'll reply to it.
 
 You can also open the form from the app: Settings → Report a Problem.
 
